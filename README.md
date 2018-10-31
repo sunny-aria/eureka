@@ -1,6 +1,6 @@
 # eureka
 eureka注册中心demo
-> eureka 多注册中心，互相注册
+> eureka 多注册中心，互相注册 <br/>
 application-eureka1.properties <br/>
 application-eureka2.properties <br/>
 application-eureka3.properties <br/>
